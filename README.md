@@ -1,5 +1,5 @@
 ### Hey y'all!
-he/him ♂ | Currently expirementing with Go 🐹 | I got something in store soon, just wait ;)
+he/him ♂ | Currently expirementing with C | I got something in store soon, just wait ;)
 <!--
 **numbertumbers/numbertumbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
